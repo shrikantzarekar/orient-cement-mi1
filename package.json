@@ -9,6 +9,7 @@
         "redis":"~0.10.1",
         "node-red": "0.x",
         "node-red-contrib-admin":"0.x",
-	"firebase": "3.6.4"
+        "firebase": "3.6.4",
+        "node-red-contrib-shri-firebase":"0.0.3"
     }
 }
